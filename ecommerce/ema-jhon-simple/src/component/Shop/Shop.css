@@ -1,0 +1,14 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+   padding: 0 5em;
+}
+.cart{
+border-left: 1px solid lightgray ;
+padding-left: 2em;
+}
+
+.item-description {
+    display: flex;
+    gap: 2em;
+}

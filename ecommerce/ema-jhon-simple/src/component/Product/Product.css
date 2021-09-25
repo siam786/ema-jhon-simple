@@ -1,0 +1,21 @@
+img {
+    width: 18em;
+    height: auto;
+}
+.product {
+    display: flex;
+    border-bottom: 1px solid lightgray ;
+    gap: 2em;
+    padding: 2em;
+}
+.prodcut-head {
+    color: blue;
+}
+.btn-add {
+    background-color: goldenrod;
+    padding: .5em 5em;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    font-weight: 600;
+}
